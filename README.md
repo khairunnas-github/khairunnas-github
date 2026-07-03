@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @khairunnas-github
-- 👀 I’m interested in Cloud Computing, Machine Learning, Data Science and UI UX Design
-- 🌱 I’m currently learning UX UI Design Cloud Computing and Python 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Vibe Coding, Machine Learning, Data and UI UX Design
+- 🌱 I’m currently learning UX UI Design Computer-Eng and Python 
 
 <!---
 khairunnas-github/khairunnas-github is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
